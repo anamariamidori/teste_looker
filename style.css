@@ -19,7 +19,7 @@
       width: auto;
       height: auto;
       padding: 8px;
-      background-color: #333;
+      background-color: #66ffb2;
       border-radius: 4px;
       box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
       pointer-events: none;
@@ -34,11 +34,11 @@
       border-collapse: collapse;
       border-spacing: 5px;
       table-layout: fixed;
-      background-color: #252525;
+      background-color: #66ff66;
   }
   
   th.headerCell {
-      background-color: #2A3B66;
+      background-color: #009900;
       color: white;
       padding: 10px;
       border-bottom: 2px solid #3B4C7E;
